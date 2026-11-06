@@ -1,0 +1,27 @@
+Educational Use License
+
+Copyright (c) 2026, the author(s) of this repository.
+
+This repository contains class material, lab walkthroughs, and write-ups created
+for a cybersecurity course. Permission is granted to any person obtaining a copy
+of this material to use, copy, modify, and distribute it, subject to the
+following conditions:
+
+1. This material is provided strictly for EDUCATIONAL and ETHICAL purposes.
+   It documents security techniques demonstrated against intentionally
+   vulnerable lab applications (e.g., PyGoat) in controlled, authorized
+   environments only.
+
+2. You may NOT use any technique, payload, or instruction contained in this
+   repository against any system, network, or application that you do not own
+   or do not have explicit, documented authorization to test.
+
+3. Attribution is appreciated but not required. If you redistribute or adapt
+   this material, please retain this license notice.
+
+4. THE MATERIAL IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL
+   THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING
+   FROM THE USE OF THIS MATERIAL, INCLUDING ANY UNAUTHORIZED OR ILLEGAL USE
+   OF THE TECHNIQUES IT DESCRIBES.
